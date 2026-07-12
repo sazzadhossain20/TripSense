@@ -1,0 +1,13 @@
+# Copy this file to "local.properties" (same folder) and paste your real key there.
+# local.properties is already in .gitignore — it will never be committed or uploaded.
+
+# Get a free key from Google Cloud Console:
+# 1. https://console.cloud.google.com/ -> create a project
+# 2. Enable "Places API" and "Maps SDK for Android"
+# 3. Credentials -> Create Credentials -> API Key
+# 4. Paste it below
+MAPS_API_KEY=YOUR_KEY_HERE
+
+# Android Studio will also auto-generate the next two lines the first time
+# you open the project — you can ignore/leave them.
+# sdk.dir=/path/to/Android/sdk
